@@ -12,6 +12,11 @@ body {
   padding-right: 15px;
 }
 
+
+.time{
+  float:right;
+  color:#bbb;
+}
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
